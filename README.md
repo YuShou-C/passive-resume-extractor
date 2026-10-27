@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+[English](README.en.md) | **简体中文**
+
 一个 **Schema 驱动的「被动简历提取」库**：在用户自然对话中，只提取用户主动提及的信息，并以**增量（delta）**方式合入已有画像——**绝不覆盖、绝不追问、绝不编造**。
 
 零第三方运行时依赖，仅用 Python 标准库。
